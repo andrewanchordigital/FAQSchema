@@ -1,0 +1,46 @@
+<html>
+  <head>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can you provide project examples and case studies that demonstrate measurable results?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "<p>Find out what they’ve been working on to date and if they have experience with your industry.  At Anchor Digital, we're versatile and work across a range of industries. Check out  <a href=\"https://anchordigital.com.au/portfolio\">our work.</a> here. </p><p> </p>"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What types of skills are on your team?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "<p>If you decide to work with Anchor, you’ll get all of us: Strategists, designers, coders, social gurus, copywriters and account managers. Curious? Come on over and  <a href=\"https://anchordigital.com.au/about-us\">meet the team!</a></p>"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are your expectations for me?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "<p>The best digital marketing partners are those with an <a href=\"https://anchordigital.com.au/our-solutions\">expansive and inclusive understanding of marketing</a>. And, they have the right tools and techniques in place to tackle your business’ marketing challenges. Having success-proven procedures in place to manage even large-scale marketing projects ensures that they can spend your marketing dollars efficiently and effectively. </p>"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "When can we start seeing results?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "<p>Right away! Feel free to <a href=\"https://anchordigital.com.au/contact-us\">get in touch</a> with us if you'd like to test these questions in the field!</p>"
+      }
+    }
+  ]
+}
+</script>
+  </head>
+<body>
+  </body>
+<html>
