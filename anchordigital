@@ -1,5 +1,6 @@
 <html>
   <head>
+  <!- FAQ Schema Markup: for reference doc, refer to https://schema.org/FAQPage ->
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
